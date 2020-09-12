@@ -1,0 +1,69 @@
+/* Template Name: Sweetness 
+Color Style: Caramel */
+
+
+/*________ Red ________ */
+
+ .btn-primary,.loader span, .label-default, .list-group-item, .owl-prev:hover, .owl-next:hover, .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span, .pager li > a, .pager li > span, .pagination>li>a:hover, .pagination>li>a:focus, .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover, .testimonial .testimonial-pic:after, .nav-pills > li.active > a, .nav-pills>li>a:hover, .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover,.nav-pills.nav>li>a:focus, .back-to-top i, .object-load, .btn.color2, .color2, .alert-info, .contact-icon .top-icon, .our-team .pic:before, .our-team .pic:after, .bg-primary .blob-btn__blob, .nav.nav-tabs > li> a {
+    background-color:#b74250;
+}
+ .blog-post h4 a:hover,a, #about .media i, .back-to-top i:hover, .post-comment a:hover, .navbar-custom ul.nav li a:hover, .our-team .social li a:hover {
+    color:#b74250;
+}
+ .img-circle.border, .section-heading, .box_icon:hover .icon > .info, .testimonial .testimonial-pic, .textarea-field:focus,.input-field:focus,.form-control:focus {
+    border-color:#b74250;
+}
+.header-text h1{
+  text-shadow: 2px 2px 0 #000, 4px 4px 0 #b74250;
+}
+/*________ Yellow ________ */
+
+ .btn-primary:hover, a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover, .nav-pills>li>a, .nav.nav-tabs > li.active > a:hover, .nav.nav-tabs > li.active > a:focus, .nav.nav-tabs > li >a:hover, .nav.nav-tabs>li.active>a, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover, .navbar-custom ul.nav ul.dropdown-menu li a, .nav-pills .nav > li > a:focus , .btn:hover,.btn:focus, .pager li > a:hover, .pager li > a:focus, .btn-primary:hover, .btn-primary:focus, .pagination>li>a,.pagination>li>span, .owl-prev,.owl-next, .box, .table-striped, .dropdown-menu, .nav.nav-tabs>li>a:hover, .nav.nav-tabs > li.active > a:hover, .nav.nav-tabs > li.active > a:focus, .nav.nav-tabs>li.active>a, .box1 , .color1, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, .bg-secondary, .blob-btn, .back-to-top i:hover {
+    background-color:#eacc72;
+}
+ h1, #about .media i:hover, footer i, .post-info i, a:hover, a:focus, h6:before, .post-slide .post-title > a:hover, ul.social-list li a, blockquote:before, .box_icon > .icon > .image, .panel-heading a:hover, .panel-heading a:focus, .panel-heading a.active, .panel-heading a, .navbar-custom li:after, .navbar-toggle i {
+    color:#eacc72;
+}
+ .team-member .profile-image, .btn:hover,.btn:focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover, .form-control, .menu-item-name, .testimonial:hover .testimonial-pic {
+    border-color:#eacc72;
+}
+ .bg-overlay {
+    box-shadow:inset 0 0 0 1000px rgba(234, 204, 114, 0.79);
+}
+/*________ Orange ________ */
+
+.blog-prev .date, .blog-prev .date-icon,.box2,.color3,.blob-btn__blob, .our-team .social,.bg-primary,.page-title,.blog-tags a,.navbar-custom ul.nav ul.dropdown-menu li a:hover,.post-comment {
+    background-color:#B76F42;
+}
+.navbar-custom .nav > .active > a,.section-heading:before,ul.custom li:before,.header-h3, .nav-pills.pills-custom li a,.blog-caption h4:hover,#owl-icons .media i,.smaller.social-media i, .comments-block .media-object{
+    color:#B76F42;
+}
+ #curveUpColor path {
+     fill: #B76F42;
+     stroke: #B76F42;
+}
+ .ls-bg-wrap:after, .ls-slide-transition-wrapper:before {
+     background: -moz-linear-gradient(bottom, rgba(183, 111, 66, 1) 0%, rgba(183, 111, 66,0.99) 1%, rgba(255,255,255,0) 100%);
+    /* FF3.6-15 */
+     background: -webkit-linear-gradient(bottom, rgba(183, 111, 66, 1) 0%,rgba(183, 111, 66,0.99) 1%,rgba(255,255,255,0) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+     background: linear-gradient(to top, rgba(183, 111, 66, 1) 0%,rgba(183, 111, 66,0.99) 1%,rgba(255,255,255,0) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+/*________ Light Yellow ________ */
+
+ .revealedBox > span ,.header-h3, .navbar-custom ul.nav ul.dropdown-menu, .light-bg2 {
+    background:#fffde7;
+}
+.section-heading h2 {
+    text-shadow: 2px 0px 3px #fffde7;
+}
+/*________ CSS color fix ________ */
+
+.blob-btn:hover,
+.credits a{
+    color: #fff!important;
+}
+
+ 
